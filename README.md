@@ -55,7 +55,7 @@ npm run dev
 
 Open the local URL displayed in your terminal.
 Note: The commands above assume a Node.js project with a dev script. Adjust them to match your project's configuration.
-#📖 How to Use
+# 📖 How to Use
 Open the Kanban board.
 Create a task with a title and any additional details.
 Add the task to the appropriate workflow column.
@@ -67,7 +67,8 @@ A typical workflow might look like this:
 To Do	In Progress	Done
 Plan features	Build UI	Set up project
 Fix bugs	Write tests	Create repository
-#📁 Project Structure
+
+# 📁 Project Structure
 
 An example structure for a frontend application:
 
@@ -88,7 +89,8 @@ kanban/
 
 Your actual directory structure may differ.
 
-#🔮 Future Improvements
+# 🔮 Future Improvements
+
 User authentication and authorization
 Customizable boards and columns
 Task labels, priorities, and deadlines
@@ -96,7 +98,9 @@ Search, filtering, and sorting
 Team collaboration
 Persistent task storage
 Dark mode
-#🤝 Contributing
+
+
+# 🤝 Contributing
 
 Contributions, suggestions, and bug reports are welcome.
 
@@ -105,7 +109,8 @@ Create a feature branch.
 Commit your changes.
 Push the branch to your fork.
 Open a pull request.
-#📄 License
+
+# 📄 License
 
 This project is licensed under the MIT License, unless otherwise specified.
 
