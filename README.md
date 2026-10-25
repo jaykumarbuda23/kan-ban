@@ -1,8 +1,8 @@
-#📋 Kanban Board
+# 📋 Kanban Board
 
 A simple and intuitive Kanban board application for organizing tasks, tracking progress, and managing workflows efficiently. Visualize your work using columns and move tasks through different stages of completion.
 
-✨ Features
+ # ✨ Features
 Task Management — Create, edit, and delete tasks.
 Kanban Board — Organize tasks into workflow columns.
 Drag and Drop — Move tasks between columns easily. (If supported)
